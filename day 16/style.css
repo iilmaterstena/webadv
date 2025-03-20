@@ -50,7 +50,7 @@ div[id~="ds"]{
     padding: 20px;
 }
 img[title^="blue"]{
-    border: 2px solid blue;                                                                                                                                   
+    border: 2px solid darkblue;                                                                                                                                   
 }
  h1[class|="heading"]{
     background: plum;
